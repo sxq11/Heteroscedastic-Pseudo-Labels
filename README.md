@@ -5,6 +5,11 @@ Official repository for the paper "Semi-Supervised Regression with Heteroscedast
 1. https://github.com/xmed-lab/UCVME
 2. https://github.com/YyzHarry/imbalanced-regression
 
+# How to construct Dataset
+1. [IMDB-WIKI](imdb_wiki/README.md)
+2. [UTKFace](utkface/README.md)
+3. [STS-B](sts/README.md)
+
 # Citation
 If you find our work useful for your research, please cite with the following bibtex:
 ```bash
