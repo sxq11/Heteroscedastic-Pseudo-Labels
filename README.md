@@ -1,14 +1,14 @@
 # Semi-Supervised Regression with Heteroscedastic Pseudo-Labels
 Official repository for the paper "Semi-Supervised Regression with Heteroscedastic Pseudo-Labels", by Xueqing Sun, Renzhen Wang, Quanziang Wang, Yichen Wu, Xixi Jia, Deyu Meng. Accepted at NeurIPS 2025.
 
-# Credit
-1. https://github.com/xmed-lab/UCVME
-2. https://github.com/YyzHarry/imbalanced-regression
-
-# Dataset Preparation
+# Training Details
 1. [IMDB-WIKI](imdb_wiki/README.md)
 2. [UTKFace](utkface/README.md)
 3. [STS-B](sts/README.md)
+
+# Credit
+1. https://github.com/xmed-lab/UCVME
+2. https://github.com/YyzHarry/imbalanced-regression
 
 # Citation
 If you find our work useful for your research, please cite with the following bibtex:
