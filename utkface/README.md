@@ -13,5 +13,5 @@ conda activate hpl
 # Train
 
 ```bash
-python main_ours.py --data_dir <path_to_data_dir> --output_dir <path_to_output_dir> --lr 1e-4 --fc_lr 1e-3 --meta_lr 1e-4 --num_epochs 30 --batch_size 32
+python main_ours.py --data_dir <path_to_data_dir> --output_dir <path_to_output_dir> --lr 1e-4 --fc_lr 1e-3 --unc_lr 1e-4 --num_epochs 30 --batch_size 32
 ```
